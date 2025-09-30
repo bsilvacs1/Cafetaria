@@ -1,4 +1,5 @@
 # Cafetaria
 Primeiro repositório do Git e Github
 
-Repostirório criada durante uma aula au vivo
+Repostirório criado durante uma aula au vivo
+Alterei a linha 4
